@@ -3,3 +3,6 @@ Create a local clone of your fork
 Above the list of files, click  Code.
 Type git clone, and then paste the URL
 Then using cd change the directory to problem-solving-iiith
+Then add the Readme file using git add
+After adding commit the file using git commit -m "My readme text"
+Then git push using command git push -u origin master
