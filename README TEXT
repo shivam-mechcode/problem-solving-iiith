@@ -1,0 +1,5 @@
+Set up Git
+Create a local clone of your fork
+Above the list of files, click  Code.
+Type git clone, and then paste the URL
+Then using cd change the directory to problem-solving-iiith
